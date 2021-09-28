@@ -1,5 +1,6 @@
 # PROJETINHO (Exercicio de Js)
-Desenvolvi esse projetinho através do curso em video, que fez parte de um dos exercicios proposto pelo professor Gustavo Guanabra.
+Desenvolvi esse projetinho através do curso em video, que fez parte de um dos exercicios proposto pelo professor Gustavo Guanabra.  
+Esse projeto funciona da seguinte forma, estando pela manhã ele vai exibir uma foto referênciando a manhã, mostrando a hora e um background referente a manhã, um background claro, e os outros horários da mesma forma, e respectivamente!
 
 # Aprendizado 
 
