@@ -10,3 +10,4 @@ Nesse exercicio, pude entender mais sobre o funcionamento de uma função do jav
 O evento onload pode ser usado para verificar o tipo de navegador do visitante e a versão do navegador, e carregar a versão apropriada da página da web com base nas informações.
 
 # Link do Projeto
+https://thiagosilva2.github.io/Manh-TardeNoite/
