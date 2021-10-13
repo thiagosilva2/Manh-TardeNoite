@@ -1,9 +1,11 @@
 function carregar() {
   var msg = document.getElementById('mensagem')
   var img = document.getElementById('imagem')
-  var data = new Date() // data
-  var hora = data.getHours() // hora atual
-  msg.innerHTML = `Agora são: ${hora} horas `
+  var data = new Date()
+  var hora = data.getHours()
+  var min = data.getMinutes()
+  var seg = data.getSeconds()
+  msg.innerHTML = `Agora são:${hora}:${min}:${seg} `
   var dia = document.getElementById('dia')
 
   if (hora >= 0 && hora < 12) {
